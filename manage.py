@@ -1,4 +1,5 @@
 # 테스트 주석
+#test comment
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
